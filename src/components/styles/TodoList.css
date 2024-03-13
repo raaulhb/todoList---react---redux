@@ -1,0 +1,24 @@
+.addTodoContainer {
+  border: 2px solid black;
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.todo {
+  border: 2px solid black;
+  margin: 16px;
+  text-align: center;
+  padding: 8px;
+}
+
+.buttons {
+  cursor: pointer;
+}
+
+.markcomplete {
+  background-color: green;
+}
+.task {
+  align-text: right;
+}
